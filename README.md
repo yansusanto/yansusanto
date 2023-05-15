@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Yan Susanto. I build hybrid apps and blazing fast websites for a living.
 
 <!--
 **yansusanto/yansusanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
