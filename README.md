@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Yan Susanto. I build hybrid apps and blazing fast websites for a living.
 
+![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yansusanto&count_private=true&show_icons=true)
+
 <!--
 **yansusanto/yansusanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
